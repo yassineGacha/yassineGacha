@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yassineGacha
-- 👀 I’m interested in AI , Big Data , GIS app 
+- 👀 I’m interested in AI , Big Data , GIS app , Quantum mechanics 
 - 🌱 I’m currently learning engnier
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on resarch on Quantum mechanics computers
 - 📫 How to reach me   yassgacha2@gmail.com
 
 <!---
